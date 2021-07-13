@@ -46,5 +46,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>位置情報取得の許可</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Bluetooth使用</string>
 </dict>
 </plist>
